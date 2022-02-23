@@ -16,5 +16,5 @@ jobs:
     
   deploy-called:
   
-    uses: rameshkharat/called-workflow-2/.github/workflows/deploy.yml@main
+    uses: rameshkharat/called-workflow-2/.github/workflows/deploy.yml@master
     needs: build-called
